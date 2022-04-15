@@ -1,0 +1,37 @@
+
+.navbar-nav{
+    display: inline;
+    display: inline-flex;
+    
+}
+
+.form{
+    display: inline-flex;
+}
+#logo{
+    max-width: 150px;
+    max-height: 60px;
+}
+ /* img #dots{
+    max-width: 5px;
+    max-height: 5px;
+    background-color: yellow;
+} */
+.navbar .upload button{
+    background-color: rgba(82, 51, 196, 0.966);
+    margin: 3px;
+}
+.navbar .username{
+    /* background-color: yellow; */
+    display: inline-flex;
+    max-height: 100px;
+    max-width: 100px;
+   
+}
+#color{
+    color: white;
+    background-image: url(../../../assets/color.png);
+}
+.cont h3{
+    color: white;
+}
